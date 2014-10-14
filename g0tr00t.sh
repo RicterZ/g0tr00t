@@ -32,7 +32,7 @@ fcheckdep()
 }
 
 
-fcheckdep
+#fcheckdep
 CNT=1
 GOTROOT=''
 mkdir exploits
